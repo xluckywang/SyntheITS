@@ -1,0 +1,52 @@
+当前时间: 2023-12-28 18:56:42
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion\not_ok_data_syn.csv
+训练用时: 4098.13 秒
+测试用时: 1063.08 秒
+整体程序用时: 5161.63 秒
+当前时间: 2023-12-28 21:44:15
+
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion\ok_data_syn.csv
+整体程序用时: 8930.75 秒
+当前时间: 2023-12-29 01:48:37
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion_01\ok_data_syn.csv
+整体程序用时: 9529.55 秒
+
+当前时间: 2023-12-29 16:30:59
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion_01\ok_data_syn.csv
+整体程序用时: 297.97 秒
+当前时间: 2023-12-29 17:02:33
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion_01\ok_data_syn.csv
+整体程序用时: 1634.26 秒
+当前时间: 2023-12-29 18:47:49
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion_01\ok_data_syn.csv
+整体程序用时: 490.21 秒
+当前时间: 2023-12-29 19:07:07
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion_01\ok_data_syn.csv
+整体程序用时: 856.81 秒
+当前时间: 2023-12-29 19:23:09
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion_01\ok_data_syn.csv
+整体程序用时: 767.29 秒
+当前时间: 2023-12-29 19:44:38
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion_01\ok_data_syn.csv
+整体程序用时: 983.56 秒
+当前时间: 2023-12-29 20:22:13
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion_01\ok_data_syn.csv
+整体程序用时: 2018.94 秒
+当前时间: 2023-12-29 20:39:08
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion_01\ok_data_syn.csv
+整体程序用时: 574.30 秒
+当前时间: 2023-12-29 20:53:52
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion_01\ok_data_syn.csv
+整体程序用时: 700.66 秒

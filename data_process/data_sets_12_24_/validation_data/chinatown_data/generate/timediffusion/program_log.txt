@@ -1,0 +1,13 @@
+当前时间: 2024-01-27 10:44:08
+使用设备: cpu
+存储路径: ../data_sets_12_24/validation_data/chinatown_data/generate/timediffusion\ok_data_syn.csv
+训练用时: 1093.18 秒
+测试用时: 307.97 秒
+整体程序用时: 1401.37 秒
+
+当前时间: 2024-01-27 15:37:34
+使用设备: cpu
+存储路径: ../data_sets_12_24/validation_data/chinatown_data/generate/timediffusion\not_ok_data_syn.csv
+训练用时: 2931.05 秒
+测试用时: 848.57 秒
+整体程序用时: 3780.12 秒

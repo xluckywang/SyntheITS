@@ -1,0 +1,10 @@
+当前时间: 2023-12-28 18:56:42
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion\not_ok_data_syn.csv
+训练用时: 4098.13 秒
+测试用时: 1063.08 秒
+整体程序用时: 5161.63 秒
+当前时间: 2023-12-28 21:44:15
+使用设备: cpu
+存储路径: ../data_sets_12_24/tightening_data/generate/timediffusion\ok_data_syn.csv
+整体程序用时: 8930.75 秒

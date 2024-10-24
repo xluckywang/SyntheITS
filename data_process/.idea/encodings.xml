@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data_sets_01_15/tightening_data/generate/doppelganger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_01_15/tightening_data/generate/doppelganger/program_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_sets_01_15/tightening_data/generate/timediffusion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_01_15/tightening_data/generate/timediffusion/program_log.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data_sets_01_15/tightening_data/generate/timegan_and_timediffusion/not_ok_data_syn.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_01_23/tightening_data/generate/doppelganger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_01_23/tightening_data/generate/doppelganger/program_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_sets_01_23/tightening_data/generate/timediffusion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_01_23/tightening_data/generate/timediffusion/program_log.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data_sets_01_23/tightening_data/generate/timegan_and_timediffusion/not_ok_data_syn.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24/tightening_data/generate/doppelganger/program_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24/tightening_data/generate/timediffusion/program_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24/tightening_data/generate/timediffusion_01/program_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24/tightening_data/generate/timegan/program_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24/validation_data/chinatown_data/generate/program_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24/validation_data/chinatown_data_02/generate/program_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24/validation_data/freezer_small_train_data/generate/program_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24/validation_data/gunpoint_oldversusyoung_data/generate/program_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24/validation_data/sony_ai_robot_data/generate/program_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/tightening_data/generate/doppelganger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/tightening_data/generate/doppelganger/program_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/tightening_data/generate/timediffusion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/tightening_data/generate/timediffusion/program_log.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/tightening_data/generate/timegan/not_ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/tightening_data/generate/timegan/ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/tightening_data/generate/timegan_and_timediffusion/not_ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/tightening_data/generate/timegan_and_timediffusion/not_ok_data_syn.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/tightening_data/generate/timegan_and_timediffusion/ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/tightening_data/original/not_ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/tightening_data/original/ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/chinatown_data/generate/timediffusion/not_ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/chinatown_data/generate/timediffusion/ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/chinatown_data/generate/timegan/not_ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/chinatown_data/generate/timegan/ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/chinatown_data/original/not_ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/chinatown_data/original/ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/sony_ai_robot_data/generate/TT/not_ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/sony_ai_robot_data/generate/TT/ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/sony_ai_robot_data/generate/timediffusion/not_ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/sony_ai_robot_data/generate/timediffusion/ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/sony_ai_robot_data/generate/timegan/not_ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/sony_ai_robot_data/generate/timegan/ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/sony_ai_robot_data/original/not_ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_sets_12_24_/validation_data/sony_ai_robot_data/original/ok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tightening_data_all/DatenKurvenspeicherLog.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/validation_data/sony_ai_robot_data/generate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validation_data/sony_ai_robot_data/generate/timegan/program_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/validation_data/sony_ai_robot_data/original" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+当前时间: 2024-03-07 12:21:10
+使用设备: cpu
+存储路径: ../data_sets_12_24/validation_data/sony_ai_robot_data/generate/timediffusion\not_ok_data_syn.csv
+训练用时: 4816.99 秒
+测试用时: 1469.92 秒
+整体程序用时: 6287.67 秒
+
+当前时间: 2024-03-07 17:17:09
+使用设备: cpu
+存储路径: ../data_sets_12_24/validation_data/sony_ai_robot_data/generate/timediffusion\ok_data_syn.csv
+训练用时: 7107.97 秒
+测试用时: 2209.28 秒
+整体程序用时: 9318.35 秒

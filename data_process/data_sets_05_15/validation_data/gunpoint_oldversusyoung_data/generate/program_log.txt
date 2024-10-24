@@ -1,0 +1,13 @@
+开始日期: 2023-12-26 21:21:51
+结束日期: 2023-12-26 21:31:25
+存储路径: ../data_sets_12_24/validation_data/gunpoint_oldversusyoung_data/generate/ok_data_syn.csv
+训练用时: 572.46 秒
+测试用时: 1.15 秒
+
+整体程序用时: 573.66 秒
+开始日期: 2023-12-26 21:36:19
+结束日期: 2023-12-26 21:45:36
+存储路径: ../data_sets_12_24/validation_data/gunpoint_oldversusyoung_data/generate/not_ok_data_syn.csv
+训练用时: 555.75 秒
+测试用时: 1.16 秒
+整体程序用时: 556.96 秒

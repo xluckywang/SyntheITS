@@ -1,0 +1,12 @@
+开始日期: 2023-12-24 20:27:49
+结束日期: 2023-12-24 20:36:52
+存储路径: ../data_sets_12_24/validation_data/sony_ai_robot_data/generate/not_ok_data_syn.csv
+训练用时: 542.08 秒
+测试用时: 1.41 秒
+整体程序用时: 543.51 秒
+开始日期: 2023-12-24 21:32:13
+结束日期: 2023-12-24 21:41:21
+存储路径: ../data_sets_12_24/validation_data/sony_ai_robot_data/generate/ok_data_syn.csv
+训练用时: 546.48 秒
+测试用时: 1.45 秒
+整体程序用时: 547.96 秒

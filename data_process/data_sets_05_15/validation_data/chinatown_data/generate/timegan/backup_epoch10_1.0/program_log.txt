@@ -1,0 +1,6 @@
+开始日期: 2024-05-16 14:42:37
+结束日期: 2024-05-16 15:16:19
+存储路径: ../data_sets_05_15/validation_data/chinatown_data/generate/timegan/not_ok_data_syn.csv
+训练用时: 95.73 秒
+测试用时: 184.39 秒
+整体程序用时: 2022.44 秒

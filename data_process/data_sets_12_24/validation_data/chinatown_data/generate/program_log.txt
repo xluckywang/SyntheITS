@@ -1,0 +1,13 @@
+开始日期: 2023-12-24 21:06:54
+结束日期: 2023-12-24 21:15:53
+存储路径: ../data_sets_12_24/validation_data/chinatown_data/generate/not_ok_data_syn.csv
+训练用时: 537.44 秒
+测试用时: 1.42 秒
+整体程序用时: 538.87 秒
+
+开始日期: 2023-12-24 21:20:07
+结束日期: 2023-12-24 21:29:05
+存储路径: ../data_sets_12_24/validation_data/chinatown_data/generate/ok_data_syn.csv
+训练用时: 537.13 秒
+测试用时: 1.13 秒
+整体程序用时: 538.28 秒

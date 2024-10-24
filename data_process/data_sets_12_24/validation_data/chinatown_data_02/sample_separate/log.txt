@@ -1,0 +1,6 @@
+一次：（训练集）
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.90))
+准确率：0.8471
+二次（训练集 + 生成样本）：
+x_test_a, x_test_b, y_test_a, y_test_b = train_test_split(x_test, y_test, test_size=0.80))
+准确率：0.9786

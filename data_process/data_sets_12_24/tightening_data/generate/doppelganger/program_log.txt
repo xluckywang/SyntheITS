@@ -1,0 +1,50 @@
+
+2024-01-01 20:12:30,291 - WARNING - From C:\Python7\ydata-synthetic-dev\venv\Lib\site-packages\keras\layers\normalization\batch_normalization.py:581: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+开始日期: 2024-01-01 20:12:30
+结束日期: 2024-01-01 20:18:35
+存储路径: ../data_sets_12_24/tightening_data/generate/doppelganger/not_ok_data_syn.csv
+训练用时: 337.25 秒
+测试用时: 28.40 秒
+整体程序用时: 365.79 秒
+
+2024-01-01 20:31:51,787 - WARNING - From C:\Python7\ydata-synthetic-dev\venv\Lib\site-packages\keras\layers\normalization\batch_normalization.py:581: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+开始日期: 2024-01-01 20:31:51
+结束日期: 2024-01-01 20:38:04
+存储路径: ../data_sets_12_24/tightening_data/generate/doppelganger/ok_data_syn.csv
+训练用时: 345.29 秒
+测试用时: 27.78 秒
+整体程序用时: 373.28 秒
+2024-01-01 20:52:47,602 - WARNING - From C:\Python7\ydata-synthetic-dev\venv\Lib\site-packages\keras\layers\normalization\batch_normalization.py:581: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2024-01-01 20:53:42,039 - WARNING - From C:\Python7\ydata-synthetic-dev\venv\Lib\site-packages\keras\layers\normalization\batch_normalization.py:581: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+开始日期: 2024-01-01 20:53:41
+结束日期: 2024-01-01 20:59:35
+存储路径: ../data_sets_12_24/tightening_data/generate/doppelganger/not_ok_data_syn.csv
+训练用时: 330.52 秒
+测试用时: 23.12 秒
+整体程序用时: 353.73 秒
+2024-01-01 21:08:32,748 - WARNING - From C:\Python7\ydata-synthetic-dev\venv\Lib\site-packages\keras\layers\normalization\batch_normalization.py:581: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+开始日期: 2024-01-01 21:08:32
+结束日期: 2024-01-01 21:14:47
+存储路径: ../data_sets_12_24/tightening_data/generate/doppelganger/not_ok_data_syn.csv
+训练用时: 348.84 秒
+测试用时: 26.36 秒
+整体程序用时: 375.30 秒
+2024-01-01 21:20:34,105 - WARNING - From C:\Python7\ydata-synthetic-dev\venv\Lib\site-packages\keras\layers\normalization\batch_normalization.py:581: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+开始日期: 2024-01-01 21:20:34
+结束日期: 2024-01-01 21:21:09
+存储路径: ../data_sets_12_24/tightening_data/generate/doppelganger/not_ok_data_syn.csv
+训练用时: 34.17 秒
+测试用时: 1.37 秒
+整体程序用时: 35.72 秒

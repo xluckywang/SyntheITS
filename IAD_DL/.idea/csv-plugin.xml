@@ -1,0 +1,2564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\data_sets_01_19\tightening_data\sample_total\tightening_data_nok.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_01_19\tightening_data\sample_total\tightening_data_ok.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\tightening_data\sample_separate\test_labels.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\tightening_data\sample_separate\train_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\tightening_data\sample_separate\train_labels.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\chinatown_data\exp_data\timediffusion\synthetic_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\chinatown_data\exp_data\timediffusion\test_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\chinatown_data\exp_data\timediffusion\train_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\chinatown_data\sample_separate\train_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\gunpoint_oldversusyoung_data\exp_data\synthetic_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\gunpoint_oldversusyoung_data\exp_data\test_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\gunpoint_oldversusyoung_data\exp_data\train_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\gunpoint_oldversusyoung_data\generate\not_ok_data_syn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\gunpoint_oldversusyoung_data\generate\ok_data_syn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\gunpoint_oldversusyoung_data\sample_separate\test_b_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\gunpoint_oldversusyoung_data\sample_separate\test_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\gunpoint_oldversusyoung_data\sample_separate\train_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\gunpoint_oldversusyoung_data\sample_total\gunpoint_oldversusyoung_data_nok.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\gunpoint_oldversusyoung_data\sample_total\gunpoint_oldversusyoung_data_ok.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\sony_ai_robot_data\generate\TT\not_ok_data_syn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\sony_ai_robot_data\generate\TT\ok_data_syn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\sony_ai_robot_data\generate\timediffusion\not_ok_data_syn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\sony_ai_robot_data\generate\timediffusion\ok_data_syn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\sony_ai_robot_data\generate\timegan\not_ok_data_syn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_sets_12_24\validation_data\sony_ai_robot_data\generate\timegan\ok_data_syn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.00\exp_output\df_best_model.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.00\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.00\model_lstm\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.00\model_resnet\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.25\exp_output\df_best_model.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.25\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.25\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.25\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.50\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.50\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.50\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.75\exp_output\df_best_model.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.75\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.75\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_0.75\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_1.00\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_syn_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_syn_1.00\model_lstm\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_syn_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\doppelganger\experiment_syn_1.00\model_resnet\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_0.00\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_0.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_0.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_0.25\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_0.25\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_0.25\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_0.50\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_0.50\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_0.50\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_0.75\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_0.75\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_0.75\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_1.00\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_syn_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_syn_1.00\model_lstm\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_syn_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timediffusion\experiment_syn_1.00\model_resnet\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.00\exp_output\df_best_model.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.00\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.00\exp_output\test_duration.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.00\model_lstm\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.00\model_resnet\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.25\exp_output\df_best_model.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.25\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.25\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.25\model_lstm\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.25\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.50\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.50\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.50\model_lstm\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.50\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.75\exp_output\df_metrics.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.75\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.75\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_0.75\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_1.00\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_syn_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_syn_1.00\model_lstm\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_syn_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan\experiment_syn_1.00\model_resnet\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_0.00\exp_output\df_best_model.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_0.00\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_0.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_0.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_0.25\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_0.25\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_0.25\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_0.50\exp_output\df_best_model.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_0.50\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_0.50\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_0.75\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_0.75\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_0.75\model_resnet\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_1.00\exp_output\history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_syn_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_syn_1.00\model_lstm\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_syn_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\tightening_data\timegan_and_timediffusion\experiment_syn_1.00\model_resnet\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\chinatown_data\timediffusion\experiment_0.00\exp_output\df_best_model.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\chinatown_data\timediffusion\experiment_0.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\chinatown_data\timediffusion\experiment_0.25\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\chinatown_data\timediffusion\experiment_0.75\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\chinatown_data\timediffusion\experiment_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\chinatown_data\timediffusion\experiment_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\chinatown_data\timediffusion\experiment_syn_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\chinatown_data\timediffusion\experiment_syn_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\chinatown_data\timegan\experiment_0.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\chinatown_data\timegan\experiment_syn_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\chinatown_data\timegan\experiment_syn_1.00\model_lstm\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\chinatown_data\timegan\experiment_syn_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\TT\experiment_0.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\TT\experiment_0.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\TT\experiment_0.25\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\TT\experiment_0.25\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\TT\experiment_0.50\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\TT\experiment_0.50\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\TT\experiment_0.75\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\TT\experiment_0.75\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\TT\experiment_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\TT\experiment_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\TT\experiment_syn_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\TT\experiment_syn_1.00\model_lstm\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\TT\experiment_syn_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timediffusion\experiment_0.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timediffusion\experiment_0.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timediffusion\experiment_0.25\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timediffusion\experiment_0.25\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timediffusion\experiment_0.50\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timediffusion\experiment_0.75\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timediffusion\experiment_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timediffusion\experiment_syn_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timediffusion\experiment_syn_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timediffusion\experiment_syn_1.00\model_resnet\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timegan\experiment_0.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timegan\experiment_0.00\model_lstm\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timegan\experiment_0.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timegan\experiment_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timegan\experiment_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timegan\experiment_syn_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timegan\experiment_syn_1.00\model_lstm\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results\validation_data\sony_ai_robot_data\timegan\experiment_syn_1.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_01_19\tightening_data\timegan\experiment_0.00\model_resnet\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_01_19\validation_data\chinatown_data\experiment_0.75\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_01_19\validation_data\chinatown_data\experiment_1.00\model_lstm\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\doppelganger\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\doppelganger\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\doppelganger\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\doppelganger\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\doppelganger\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timediffusion\experiment_0.00\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timediffusion\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timediffusion\experiment_0.25\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timediffusion\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timediffusion\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timediffusion\experiment_0.75\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timediffusion\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timegan\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timegan\experiment_0.25\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timegan\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timegan\experiment_0.50\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timegan\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timegan\experiment_0.75\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timegan\experiment_1.00\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timegan_and_timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\tightening_data\timegan_and_timediffusion\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\chinatown_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\chinatown_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\chinatown_data\timediffusion\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\chinatown_data\timediffusion\experiment_syn_1.00\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\chinatown_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\chinatown_data\timegan\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\chinatown_data\timegan\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\chinatown_data\timegan\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\chinatown_data\timegan\experiment_0.75\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\chinatown_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\chinatown_data\timegan\experiment_1.00\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\chinatown_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\chinatown_data\timegan\experiment_syn_1.00\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\TT\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\TT\experiment_0.00\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\TT\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\TT\experiment_0.25\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\TT\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\TT\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\TT\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\TT\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timediffusion\experiment_0.00\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timediffusion\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timediffusion\experiment_0.25\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timediffusion\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timediffusion\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timediffusion\experiment_1.00\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timediffusion\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timediffusion\experiment_syn_1.00\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timegan\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timegan\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timegan\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_329\validation_data\sony_ai_robot_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\tightening_data\doppelganger\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\tightening_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\tightening_data\timediffusion\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\tightening_data\timediffusion\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\tightening_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\tightening_data\timegan\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\tightening_data\timegan\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\tightening_data\timegan\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\tightening_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\chinatown_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\chinatown_data\timediffusion\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\chinatown_data\timediffusion\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\chinatown_data\timediffusion\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\chinatown_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\chinatown_data\timediffusion\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\chinatown_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\chinatown_data\timegan\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\chinatown_data\timegan\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\chinatown_data\timegan\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\chinatown_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\chinatown_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\chinatown_data\timegan\experiment_syn_1.00\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\TT\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\TT\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\TT\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\TT\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\TT\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\timediffusion\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\timediffusion\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\timediffusion\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\timediffusion\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\timegan\experiment_0.00\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\timegan\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\timegan\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\timegan\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_401\validation_data\sony_ai_robot_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\doppelganger\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\doppelganger\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\doppelganger\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\doppelganger\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timediffusion\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timediffusion\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timediffusion\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timediffusion\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timegan\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timegan\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timegan\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timegan_and_timediffusion\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timegan_and_timediffusion\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timegan_and_timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\tightening_data\timegan_and_timediffusion\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\validation_data\chinatown_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\validation_data\chinatown_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\validation_data\chinatown_data\timediffusion\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\validation_data\chinatown_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\validation_data\chinatown_data\timegan\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\validation_data\chinatown_data\timegan\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\validation_data\chinatown_data\timegan\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\validation_data\chinatown_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\validation_data\chinatown_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\validation_data\sony_ai_robot_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\validation_data\sony_ai_robot_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_403\validation_data\sony_ai_robot_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\tightening_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\tightening_data\timediffusion\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\tightening_data\timediffusion\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\tightening_data\timediffusion\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\tightening_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\tightening_data\timediffusion\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\tightening_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\tightening_data\timegan\experiment_0.25\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\tightening_data\timegan\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\tightening_data\timegan\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\tightening_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\tightening_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\validation_data\chinatown_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\validation_data\chinatown_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\validation_data\chinatown_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\validation_data\chinatown_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\validation_data\sony_ai_robot_data\TT\experiment_0.50\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\validation_data\sony_ai_robot_data\TT\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\validation_data\sony_ai_robot_data\TT\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\validation_data\sony_ai_robot_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\validation_data\sony_ai_robot_data\timegan\experiment_0.75\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\validation_data\sony_ai_robot_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_405\validation_data\sony_ai_robot_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\tightening_data\doppelganger\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\tightening_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\tightening_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\tightening_data\timediffusion\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\tightening_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\tightening_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\tightening_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\tightening_data\timegan_and_timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\tightening_data\timegan_and_timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\tightening_data\timegan_and_timediffusion\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\validation_data\chinatown_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\validation_data\chinatown_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\validation_data\chinatown_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\validation_data\chinatown_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\validation_data\chinatown_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\validation_data\sony_ai_robot_data\TT\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\validation_data\sony_ai_robot_data\TT\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\validation_data\sony_ai_robot_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\validation_data\sony_ai_robot_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\validation_data\sony_ai_robot_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\validation_data\sony_ai_robot_data\timegan\experiment_0.00\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\validation_data\sony_ai_robot_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_407\validation_data\sony_ai_robot_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_408\tightening_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_408\tightening_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_408\tightening_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_408\tightening_data\timegan_and_timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_408\validation_data\chinatown_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_408\validation_data\chinatown_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_408\validation_data\sony_ai_robot_data\TT\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_408\validation_data\sony_ai_robot_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_408\validation_data\sony_ai_robot_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_408\validation_data\sony_ai_robot_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_408\validation_data\sony_ai_robot_data\timegan\experiment_0.00\model_reslx\train_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_408\validation_data\sony_ai_robot_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_409\tightening_data\timediffusion\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_409\tightening_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_409\tightening_data\timediffusion\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_409\validation_data\chinatown_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_409\validation_data\chinatown_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_409\validation_data\chinatown_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_409\validation_data\sony_ai_robot_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_409\validation_data\sony_ai_robot_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_409\validation_data\sony_ai_robot_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_410\tightening_data\timediffusion\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_410\validation_data\chinatown_data\timegan\experiment_0.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_410\validation_data\chinatown_data\timegan\experiment_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_410\validation_data\chinatown_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\experimental_results_410\validation_data\sony_ai_robot_data\timegan\experiment_syn_1.00\model_reslx\test_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
